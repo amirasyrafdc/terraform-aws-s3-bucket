@@ -3,7 +3,7 @@ terraform {
     organization = "datacom-nz-aws"
 
     workspaces {
-      name    = "module-network"
+      name    = "module-s3"
       project = "terraform-modules"
     }
   }
