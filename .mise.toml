@@ -1,0 +1,8 @@
+[tools]
+terraform = '1.9.5'
+awscli = '2'
+nodejs = '20'
+tflint = '0.53'
+trivy = '0.55'
+terraform-docs = '0.18'
+pre-commit = '3'
